@@ -15,5 +15,5 @@ https://docs.microsoft.com/en-us/bingmaps/rest-services/locations/find-a-locatio
 - Find a Location by Address  
 https://docs.microsoft.com/en-us/bingmaps/rest-services/locations/find-a-location-by-address
 
-- WPF.Maps Assembly 
+- WPF.Maps Assembly  
 https://www.grapecity.com/componentone/docs/wpf/online-maps5/webindex.html
